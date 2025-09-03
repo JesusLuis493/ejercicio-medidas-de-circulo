@@ -1,0 +1,14 @@
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/Ejemplocirculo.GeneratedMSBuildEditorConfig.editorconfig
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/Ejemplocirculo.AssemblyInfoInputs.cache
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/Ejemplocirculo.AssemblyInfo.cs
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/Ejemplocirculo.csproj.CoreCompileInputs.cache
+/home/jesus/Ejemplocirculo/bin/Debug/net8.0/Ejemplocirculo
+/home/jesus/Ejemplocirculo/bin/Debug/net8.0/Ejemplocirculo.deps.json
+/home/jesus/Ejemplocirculo/bin/Debug/net8.0/Ejemplocirculo.runtimeconfig.json
+/home/jesus/Ejemplocirculo/bin/Debug/net8.0/Ejemplocirculo.dll
+/home/jesus/Ejemplocirculo/bin/Debug/net8.0/Ejemplocirculo.pdb
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/Ejemplocirculo.dll
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/refint/Ejemplocirculo.dll
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/Ejemplocirculo.pdb
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/Ejemplocirculo.genruntimeconfig.cache
+/home/jesus/Ejemplocirculo/obj/Debug/net8.0/ref/Ejemplocirculo.dll
