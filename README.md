@@ -10,7 +10,7 @@ Mostrar los parametrso de un circulo cualquiera proporsionando el radio del mism
 
 ## 🧱 Estructura del proyecto
 
-- `Banco.cs`: Clase que representa los metodos tanto publicos como privados para llevar acabo la tarea.
+- `NuevaClass.cs`: Clase que representa los metodos tanto publicos como privados para llevar acabo la tarea.
 - `Program.cs`: Contiene el menú interactivo y la lógica principal del programa.
 
 ## 🛠️ Tecnologías utilizadas
